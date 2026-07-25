@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%" height="4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF9D&background=000000&center=true&vCenter=true&width=420&height=70&lines=Palash+Barman;%3C%2F+BCA+Student+%3E" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF9D&background=000000&center=true&vCenter=true&width=420&height=70&lines=Palash+Barman;%3C%2F+পলাশ+বৰ্মন+%3E" alt="Name" />
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180"/>
 
