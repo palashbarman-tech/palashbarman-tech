@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Palash%20Barman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1b0d,100:001a00&height=140&section=header&text=%3C%20Palash%20Barman%20%2F%3E&fontSize=32&fontColor=00FF9D&fontAlignY=40&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Palash;BCA+Student;Love+to+learn+new+coding+skills!" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="130"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=440&height=30&lines=BCA+Student+%7C+Tech+Enthusiast;Love+to+learn+new+coding+skills!" alt="Typing SVG" />
 
 </div>
 
@@ -42,6 +44,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a00,50:0d1b0d,100:000000&height=60&section=footer"/>
 
 </div>
