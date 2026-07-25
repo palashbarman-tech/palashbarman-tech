@@ -34,26 +34,16 @@
 
 ## 🧠 Skills:
 
-<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25915798"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI Agents: Transform Your Organization**</a>
-<br><br>
-<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913965"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI Apps: Transform Your Work**</a>
-<br><br>
-<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913378"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Navigate the Landscape**</a>
-<br><br>
-<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25912742"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Unlock Foundational Concepts**</a>
-<br><br>
-<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25911659"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Beyond the Chatbot**</a>
-<br><br>
-
-<img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116" width="45"/> **Data Structures & Algorithms (DSA)**
-<br><br>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" width="45"/> **Problem Solving**
-<br><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" width="45"/> **Microsoft Excel**
-<br><br>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" width="45"/> **Microsoft PowerPoint**
-<br><br>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" width="45"/> **Microsoft Word**
+[![Gen AI Agents](https://img.shields.io/badge/Gen%20AI%20Agents%3A%20Transform%20Your%20Organization-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25915798)
+[![Gen AI Apps](https://img.shields.io/badge/Gen%20AI%20Apps%3A%20Transform%20Your%20Work-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913965)
+[![Gen AI Landscape](https://img.shields.io/badge/Gen%20AI%3A%20Navigate%20the%20Landscape-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913378)
+[![Gen AI Foundational](https://img.shields.io/badge/Gen%20AI%3A%20Unlock%20Foundational%20Concepts-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25912742)
+[![Gen AI Chatbot](https://img.shields.io/badge/Gen%20AI%3A%20Beyond%20the%20Chatbot-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25911659)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20(DSA)-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 
 <br>
 
