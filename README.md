@@ -34,11 +34,11 @@
 
 ## 🧠 Skills:
 
-[![Gen AI Agents](https://img.shields.io/badge/Gen%20AI%20Agents%3A%20Transform%20Your%20Organization-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25915798)
-[![Gen AI Apps](https://img.shields.io/badge/Gen%20AI%20Apps%3A%20Transform%20Your%20Work-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913965)
-[![Gen AI Landscape](https://img.shields.io/badge/Gen%20AI%3A%20Navigate%20the%20Landscape-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913378)
-[![Gen AI Foundational](https://img.shields.io/badge/Gen%20AI%3A%20Unlock%20Foundational%20Concepts-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25912742)
-[![Gen AI Chatbot](https://img.shields.io/badge/Gen%20AI%3A%20Beyond%20the%20Chatbot-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25911659)
+[![Gen AI Agents](https://img.shields.io/badge/Gen%20AI%20Agents%3A%20Transform%20Your%20Organization-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=22)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25915798)
+[![Gen AI Apps](https://img.shields.io/badge/Gen%20AI%20Apps%3A%20Transform%20Your%20Work-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=22)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913965)
+[![Gen AI Landscape](https://img.shields.io/badge/Gen%20AI%3A%20Navigate%20the%20Landscape-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=22)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913378)
+[![Gen AI Foundational](https://img.shields.io/badge/Gen%20AI%3A%20Unlock%20Foundational%20Concepts-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=22)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25912742)
+[![Gen AI Chatbot](https://img.shields.io/badge/Gen%20AI%3A%20Beyond%20the%20Chatbot-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&logoWidth=22)](https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25911659)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20(DSA)-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
