@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%" height="4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=0080FF&background=000&center=true&vCenter=true&width=420&height=70&lines=Palash+Barman;%3C%2F+palash+barman+%3E" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF9D&background=000000&center=true&vCenter=true&width=420&height=70&lines=Palash+Barman;%3C%2F+BCA+Student+%3E" alt="Name" />
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180"/>
 
@@ -33,6 +33,17 @@
 <br>
 
 ## 🧠 Skills:
+
+<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25915798"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI Agents: Transform Your Organization**</a>
+<br><br>
+<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913965"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI Apps: Transform Your Work**</a>
+<br><br>
+<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25913378"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Navigate the Landscape**</a>
+<br><br>
+<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25912742"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Unlock Foundational Concepts**</a>
+<br><br>
+<a href="https://www.skills.google/public_profiles/d098c0b1-0f51-42e1-b56c-b48cbb22368e/badges/25911659"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" width="45"/> **Gen AI: Beyond the Chatbot**</a>
+<br><br>
 
 <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116" width="45"/> **Data Structures & Algorithms (DSA)**
 <br><br>
