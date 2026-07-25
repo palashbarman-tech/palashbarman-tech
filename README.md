@@ -28,15 +28,15 @@
 
 ## 🧠 Skills:
 
-<img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116" width="26"/> **Data Structures & Algorithms (DSA)**
+<img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116" width="45"/> **Data Structures & Algorithms (DSA)**
 <br><br>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" width="26"/> **Problem Solving**
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" width="45"/> **Problem Solving**
 <br><br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" width="26"/> **Microsoft Excel**
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" width="45"/> **Microsoft Excel**
 <br><br>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" width="26"/> **Microsoft PowerPoint**
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" width="45"/> **Microsoft PowerPoint**
 <br><br>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" width="26"/> **Microsoft Word**
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" width="45"/> **Microsoft Word**
 
 <br>
 
