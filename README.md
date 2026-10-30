@@ -8,11 +8,9 @@
 
 <br/><br/>
 
-
 <img src="assets/t-about.svg" alt="About me" width="520"/>
-           HI I AM PADMA PALASH BARMAN 
 
-I’m a passionate BCA student dedicated to exploring and mastering new technologies. With a solid foundation in programming and artificial intelligence, I thrive on continuous learning and staying ahead of industry trends to build innovative solutions.
+ HI I AM PADMA PALASH BARMAN I’m a passionate BCA student dedicated to exploring and mastering new technologies. With a solid foundation in programming and artificial intelligence, I thrive on continuous learning and staying ahead of industry trends to build innovative solutions.
 
 
 
