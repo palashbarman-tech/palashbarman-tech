@@ -43,4 +43,5 @@
 
 <img src="assets/footer.svg" alt="Thanks for visiting" width="100%"/>
 
+
 </div>
